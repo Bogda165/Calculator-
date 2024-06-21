@@ -1,0 +1,9 @@
+# ninja log v6
+1	38	1718708408736574918	build.ninja	642d933152b05e17
+5	21	1718140207699714481	lexer.cpp	79493ec89430a7bc
+1	49	1718140747464493626	CMakeFiles/flexFirstTry.dir/lex.yy.c.o	38e6b1e5e24691fc
+5	21	1718140207699714481	/Users/user/CLionProjects/Flex/flexFirstTry/cmake-build-debug/lexer.cpp	79493ec89430a7bc
+144	445	1718140096738742971	CMakeFiles/flexFirstTry.dir/main.cpp.o	de674745585117f7
+1	38	1718140785911264355	flexFirstTry	50999e5af17ef6ab
+0	44	1718708410187705300	CMakeFiles/flexFirstTry.dir/lex.yy.c.o	38e6b1e5e24691fc
+44	75	1718708410231124629	flexFirstTry	50999e5af17ef6ab

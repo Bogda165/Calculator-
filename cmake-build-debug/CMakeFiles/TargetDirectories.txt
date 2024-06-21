@@ -1,0 +1,3 @@
+/Users/user/CLionProjects/Flex/flexFirstTry/cmake-build-debug/CMakeFiles/flexFirstTry.dir
+/Users/user/CLionProjects/Flex/flexFirstTry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/CLionProjects/Flex/flexFirstTry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
